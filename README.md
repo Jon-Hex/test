@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello, world!
 
 Я учусь
@@ -6,3 +7,6 @@
 print(7+3)
 
 And go
+=======
+# Hello, world!
+>>>>>>> parent of b3655a7 (cheange README)
