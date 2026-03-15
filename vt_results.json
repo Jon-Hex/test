@@ -1,0 +1,20 @@
+[
+    {
+        "ip": "8.42.77.171",
+        "malicious": 0,
+        "undetermined": 0,
+        "harmless": 59,
+        "suspicious": 0,
+        "timeout": 0,
+        "undetected": 35
+    },
+    {
+        "ip": "80.211.246.121",
+        "malicious": 0,
+        "undetermined": 0,
+        "harmless": 0,
+        "suspicious": 0,
+        "timeout": 0,
+        "undetected": 94
+    }
+]
