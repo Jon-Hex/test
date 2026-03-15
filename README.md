@@ -3,10 +3,13 @@
 
 Программа на Python для анализа сетевых инцидентов и автоматической проверки подозрительных IP-адресов.
 
-itog.py - программа ДЗ
+itog.py - программа ДЗ.
+
 alerts-only.json — исходные данные.
 full_analysis_report.png и threats_pie_chart.png — графики.
 vt_results.csv и vt_results.json — итоговые отчеты.
+Pict-1.jpg, Pict-2.jpg - Диаграммы.
+Pict-3.jpg - итог работы программы в терминале.
 
 ## Функционал
 * Анализ логов в формате JSON.
